@@ -8,8 +8,8 @@ package:
   version: ${{ version }}
 
 source:
-- url: https://files.pythonhosted.org/packages/source/p/pytest-watch/pytest_watch-${{ version }}.tar.gz
-  sha256: 06136f03d5b361718b8d0d234042f7b2f203910d8568f63df2f866b547b3d4b9
+- url: https://github.com/joeyespo/pytest-watch/archive/refs/tags/v${{ version }}.tar.gz
+  sha256: 6e6bbdf06c788635475a1f5b68acd818c2a239b7da87c0d263637fcbe6d86a45
 
 build:
   number: 0
