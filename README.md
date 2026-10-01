@@ -193,4 +193,5 @@ Feedstock Maintainers
 =====================
 
 * [@igortg](https://github.com/igortg/)
+* [@jsmolic](https://github.com/jsmolic/)
 
